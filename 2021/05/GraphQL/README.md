@@ -12,6 +12,12 @@ Quickly query the data what you only want.
 
 Define types and fields on type to create service, and then offer the parse function for each fields on every type.
 
+**But how to use GraphQL?**
+
+- Write your own GraphQL API schema
+- Explore your API
+- Consume your data
+
 ## D
 
 ``````javascript
