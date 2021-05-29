@@ -4,7 +4,7 @@
 
 Record documentations, examples, notes in here for everything.
 
-![cover](https://github.com/i0Ek3/X/blob/master/media/cover.jpg)
+![cover](https://github.com/i0Ek3/X/blob/main/media/cover.jpg)
 
 ## Content
 
@@ -15,10 +15,13 @@ Record documentations, examples, notes in here for everything.
 |  |  |  |
 
 
+## Roadmap
+
+Popular, Open Sourced, User-friend projects or services is my target, also focus on Machine Learning, Deep Learing, Algorithm, Cloud Computation i.e.
 
 ## Guide
 
-Please see [Guild.md](https://github.com/i0Ek3/X/blob/master/Guide.md)
+Please see [Guide.md](https://github.com/i0Ek3/X/blob/master/Guide.md)
 
 ## Contributing
 
