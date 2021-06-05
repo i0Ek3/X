@@ -8,11 +8,12 @@
 
 ## Content
 
-| Date  | Item | Official Site | Tutorial |
-| :---: | :--: | :--: | :----: |
-| **[2021.05](https://github.com/i0Ek3/X/tree/main/2021/05)** |  |  | |
-|  | [GraphQL](https://github.com/i0Ek3/X/tree/main/2021/05/GraphQL) | [zh](https://graphql.cn) [en](https://www.graphql.com) | [How To GraphQL](https://www.howtographql.com) |
-|  |  |  |  |
+| Date  | Item | Official Site |
+| :-----: | :------: | :-----: |
+| **[2021.05](https://github.com/i0Ek3/X/tree/main/2021/05)** |  |  |
+|  | [GraphQL](https://github.com/i0Ek3/X/tree/main/2021/05/GraphQL) | [https://www.graphql.com](https://www.graphql.com) |
+| **[2021.06](https://github.com/i0Ek3/X/tree/main/2021/06)** |  |  |
+|  | [PostgreSQL](https://github.com/i0Ek3/X/tree/main/2021/06/PostgreSQL) | [https://www.postgresql.org](https://www.postgresql.org) |
 
 
 ## Roadmap
@@ -23,7 +24,7 @@ The topic of learning list you can find in [List.md](https://github.com/i0Ek3/X/
 
 ## Guide
 
-Please see [Guide.md](https://github.com/i0Ek3/X/blob/main/Guide.md)
+Please see [Guide.md](https://github.com/i0Ek3/X/blob/main/Guide.md).
 
 ## Contributing
 
@@ -33,4 +34,4 @@ Please, anything, welcome.
 
 - **Internet**
 - **GitHub**
-- [orly](https://github.com/nanmu42/orly)
+- **[orly](https://github.com/nanmu42/orly)**
