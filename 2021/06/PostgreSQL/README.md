@@ -1,29 +1,31 @@
-# PostgreSQL 
+# PostgreSQL
 
-## A
+## A: What it is?
 
 PostgreSQL is a powerful, open source object-relational database.
 
-## B
+## B: What problem should be solved?
 
+PostgreSQL is a fullstack database, so a bunch of problems can be solved.
 
-## C
+## C: How-To and why?
 
+Install: `brew install postgresql` or `sudo apt install postgresql`.
 
-## D
+You can find the answer [here](https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf).
 
+## D: Examples validation
 
-## E
+N/A.
 
+## E: Application?
 
-## F
+So many fields apply PostgreSQL instead of MySQL.
 
+## F: Epilog
 
-### Cons
+Good enough, try it out!
 
+## G: Reference
 
-### Pros
-
-
-## G
-
+- [https://en.wikibooks.org/wiki/Converting_MySQL_to_PostgreSQL](https://en.wikibooks.org/wiki/Converting_MySQL_to_PostgreSQL)
