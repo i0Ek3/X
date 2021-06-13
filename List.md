@@ -2,6 +2,6 @@
 
 - GraphQL/ElasticSearch/PostgreSQL/REST
 - Virtualization
-- Vue/React/Angular/Flutter
+- Vue/React/Angular/Flutter/Webpack
 - Quantum Computation
 - Ansible/Kubernetes/Docker
