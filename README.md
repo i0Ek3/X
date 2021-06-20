@@ -22,6 +22,7 @@
 |  | [Unity](https://github.com/i0Ek3/X/tree/main/2021/06/Unity) | [https://unity.com](https://unity.com) | 1a |
 |  | [Vue](https://github.com/i0Ek3/X/tree/main/2021/06/Vue) | [https://cn.vuejs.org/index.html](https://cn.vuejs.org/index.html) | 1b |
 |  | [Emacs](https://github.com/i0Ek3/X/tree/main/2021/06/Emacs) | [Official Site](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html) | 1b |
+|  | [Ansible](https://github.com/i0Ek3/X/tree/main/2021/06/Ansible) | [https://www.ansible.com](https://www.ansible.com) | 1a |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/06/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 

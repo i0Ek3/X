@@ -1,0 +1,5 @@
+# For root user.
+$ /bin/echo -e "[local]\nlocalhost ansible_connection=local" >> /etc/ansible/hosts
+
+# For sudo user.
+$ sudo su -c '/bin/echo -e "[local]\nlocalhost ansible_connection=local" >> /etc/ansible/hosts'
