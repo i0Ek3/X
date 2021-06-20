@@ -4,9 +4,11 @@
 - [x] PostgreSQL
 - [x] Vue
 - [x] Ansible
+- [x] Grafana
 - [ ] ElasticSearch
 - [ ] REST
 - [ ] Virtualization
+- [ ] CSS/HTML/JavaScript
 - [ ] React
 - [ ] Angular
 - [ ] Flutter

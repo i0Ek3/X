@@ -9,8 +9,8 @@
 ## Content
 
 > Status: 
->> 1 known, 2 understand, 3 skilled, 4 master
->> a todo, b doing, c done
+- 1 known, 2 understand, 3 skilled, 4 master
+- a todo, b doing, c done
 
 | Date  | Item | Links | Status | 
 | :-----: | :------: | :-----: | :-----: |
@@ -18,11 +18,12 @@
 |  | [GraphQL](https://github.com/i0Ek3/X/tree/main/2021/05/GraphQL) | [https://www.graphql.com](https://www.graphql.com) | 1b |
 | **[2021.06](https://github.com/i0Ek3/X/tree/main/2021/06)** |  |  |  |
 |  | [PostgreSQL](https://github.com/i0Ek3/X/tree/main/2021/06/PostgreSQL) | [https://www.postgresql.org](https://www.postgresql.org) | 2b |
-|  | [Commit](https://github.com/i0Ek3/X/tree/main/2021/06/Commit) | [Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.greljkmo14y0) [Commit Message Change Log](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html) | 3c |
+|  | [Commit](https://github.com/i0Ek3/X/tree/main/2021/06/Commit) | [1. Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.greljkmo14y0) [2. Commit Message Change Log](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html) | 3c |
 |  | [Unity](https://github.com/i0Ek3/X/tree/main/2021/06/Unity) | [https://unity.com](https://unity.com) | 1a |
 |  | [Vue](https://github.com/i0Ek3/X/tree/main/2021/06/Vue) | [https://cn.vuejs.org/index.html](https://cn.vuejs.org/index.html) | 1b |
 |  | [Emacs](https://github.com/i0Ek3/X/tree/main/2021/06/Emacs) | [Official Site](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html) | 1b |
 |  | [Ansible](https://github.com/i0Ek3/X/tree/main/2021/06/Ansible) | [https://www.ansible.com](https://www.ansible.com) | 1b |
+|  | [Grafana](https://github.com/i0Ek3/X/tree/main/2021/06/Grafana) | [https://grafana.com](https://grafana.com) | 1b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/06/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 
