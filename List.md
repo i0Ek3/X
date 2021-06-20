@@ -1,7 +1,16 @@
 # Learning Topic
 
-- GraphQL/ElasticSearch/PostgreSQL/REST
-- Virtualization
-- Vue/React/Angular/Flutter/Webpack
-- Quantum Computation
-- Ansible/Kubernetes/Docker
+- [x] GraphQL
+- [x] PostgreSQL
+- [x] Vue
+- [x] Ansible
+- [ ] ElasticSearch
+- [ ] REST
+- [ ] Virtualization
+- [ ] React
+- [ ] Angular
+- [ ] Flutter
+- [ ] Webpack
+- [ ] Quantum Computation
+- [ ] Kubernetes
+- [ ] Docker
