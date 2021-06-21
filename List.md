@@ -5,8 +5,10 @@
 - [x] Vue
 - [x] Ansible
 - [x] Grafana
+- [x] GitHub Wrokflow
 - [ ] ElasticSearch
-- [ ] REST
+- [ ] Message Queue
+- [ ] RESTful
 - [ ] Virtualization
 - [ ] CSS/HTML/JavaScript
 - [ ] React
@@ -14,5 +16,6 @@
 - [ ] Flutter
 - [ ] Webpack
 - [ ] Quantum Computation
+- [ ] Edge Computation
 - [ ] Kubernetes
 - [ ] Docker

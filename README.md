@@ -24,6 +24,7 @@
 |  | [Emacs](https://github.com/i0Ek3/X/tree/main/2021/06/Emacs) | [Official Site](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html) | 1b |
 |  | [Ansible](https://github.com/i0Ek3/X/tree/main/2021/06/Ansible) | [https://www.ansible.com](https://www.ansible.com) | 1b |
 |  | [Grafana](https://github.com/i0Ek3/X/tree/main/2021/06/Grafana) | [https://grafana.com](https://grafana.com) | 1b |
+|  | [GitHub Actions](https://github.com/i0Ek3/X/tree/main/2021/06/Actions) | [https://docs.github.com/en/actions](https://docs.github.com/en/actions) | 2b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/06/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 
@@ -31,7 +32,7 @@
 
 Popular, Open Sourced, User-friendly projects or services is my target, also focus on Machine Learning, Deep Learing, Algorithm, Cloud Computation i.e.
 
-The topic of learning list you can find in [List.md](https://github.com/i0Ek3/X/blob/main/List.md).
+The topic of learning list you can find in [List.md](https://github.com/i0Ek3/X/blob/main/List.md), also you can find your interesting topic from [Learn X in Y minutes](https://learnxinyminutes.com)
 
 ## Guide
 
