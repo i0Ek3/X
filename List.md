@@ -8,6 +8,7 @@
 - [x] GitHub Wrokflow
 - [ ] ElasticSearch
 - [ ] Message Queue
+- [ ] Nginx
 - [ ] RESTful
 - [ ] Virtualization
 - [ ] CSS/HTML/JavaScript
