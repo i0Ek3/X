@@ -6,8 +6,9 @@
 - [x] Ansible
 - [x] Grafana
 - [x] GitHub Wrokflow
+- [x] Message Queue
+    - [x] Kafka
 - [ ] ElasticSearch
-- [ ] Message Queue
 - [ ] Nginx
 - [ ] RESTful
 - [ ] Virtualization
