@@ -46,6 +46,10 @@ Please see [Guide.md](https://github.com/i0Ek3/X/blob/main/Guide.md).
 
 Please, anything, welcome.
 
+## Friendly Links
+
+- [https://wiki.nikitavoloboev.xyz](https://wiki.nikitavoloboev.xyz)
+
 ## Credit
 
 - **[orly](https://github.com/nanmu42/orly)**

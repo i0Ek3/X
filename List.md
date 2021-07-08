@@ -9,6 +9,8 @@
 - [x] Message Queue
     - [x] Kafka
 - [x] Protobuf
+- [ ] SEO
+- [ ] Microservice
 - [ ] ElasticSearch
 - [ ] Nginx
 - [ ] RESTful
