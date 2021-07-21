@@ -8,6 +8,8 @@
 
 ## Content
 
+> DECLARATION: After reading programing-think's blog, I would say we need review our work for now. You can see the true, all these topics we just use system1 to learn it instead of system2, and we just know what these topics are and a little how they work but not why in deeply, so we will refactor it, and you too. 
+
 > Status: 
 - 0 None, 1 known, 2 understand, 3 skilled, 4 master
 - a todo, b doing, c done
