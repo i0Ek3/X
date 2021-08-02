@@ -9,10 +9,11 @@
 - [x] Message Queue
     - [x] Kafka
 - [x] Protobuf
+- [x] Nginx
+- [x] Terraform
 - [ ] SEO
 - [ ] Microservice
 - [ ] ElasticSearch
-- [ ] Nginx
 - [ ] RESTful
 - [ ] Virtualization
 - [ ] CSS/HTML/JavaScript

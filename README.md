@@ -32,6 +32,8 @@
 | **[2021.07](https://github.com/i0Ek3/X/tree/main/2021/07)** |  |  |  |
 |  | [Protobuf](https://github.com/i0Ek3/X/tree/main/2021/07/Protobuf) | [Protocol Buffers](https://developers.google.com/protocol-buffers/) | 1b |
 |  | [Nginx](https://github.com/i0Ek3/X/tree/main/2021/07/Nginx) | [https://nginx.org](https://nginx.org) | 1b |
+| **[2021.08](https://github.com/i0Ek3/X/tree/main/2021/08)** |  |  |  |
+|  | [Terraform](https://github.com/i0Ek3/X/tree/main/2021/08/Terraform) | [https://www.terraform.io](https://www.terraform.io) | 1b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/0/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 
