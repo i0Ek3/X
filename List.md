@@ -11,7 +11,7 @@
 - [x] Protobuf
 - [x] Nginx
 - [x] Terraform
-- [ ] SEO
+- [x] SEO
 - [ ] Microservice
 - [ ] ElasticSearch
 - [ ] RESTful
