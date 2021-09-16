@@ -12,16 +12,19 @@
 - [x] Nginx
 - [x] Terraform
 - [x] SEO
+- [x] SRE
+- [ ] DevOps
+- [ ] Prometheus
+- [ ] Kubernetes
+- [ ] CSS/HTML/JavaScript
+- [ ] Flutter
+- [ ] React
+- [ ] Angular
+- [ ] Webpack
+- [ ] Docker
 - [ ] Microservice
 - [ ] ElasticSearch
 - [ ] RESTful
 - [ ] Virtualization
-- [ ] CSS/HTML/JavaScript
-- [ ] React
-- [ ] Angular
-- [ ] Flutter
-- [ ] Webpack
 - [ ] Quantum Computation
 - [ ] Edge Computation
-- [ ] Kubernetes
-- [ ] Docker
