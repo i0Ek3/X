@@ -37,6 +37,7 @@
 | **[2021.09](https://github.com/i0Ek3/X/tree/main/2021/09)** |  |  |  |
 |  | [SEO](https://github.com/i0Ek3/X/tree/main/2021/09/SEO) | [https://developers.google.com](https://developers.google.com/search/docs) | 1b |
 |  | [SRE](https://github.com/i0Ek3/X/tree/main/2021/09/SRE) | [https://sre.google/](https://sre.google/) | 1b |
+|  | [DevOps](https://github.com/i0Ek3/X/tree/main/2021/09/DevOps) | []() | 1b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/0/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 

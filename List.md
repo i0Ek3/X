@@ -13,7 +13,7 @@
 - [x] Terraform
 - [x] SEO
 - [x] SRE
-- [ ] DevOps
+- [x] DevOps
 - [ ] Prometheus
 - [ ] Kubernetes
 - [ ] CSS/HTML/JavaScript
