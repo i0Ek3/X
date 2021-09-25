@@ -14,6 +14,7 @@
 - [x] SEO
 - [x] SRE
 - [x] DevOps
+- [x] Disruptor
 - [ ] Prometheus
 - [ ] Kubernetes
 - [ ] CSS/HTML/JavaScript
