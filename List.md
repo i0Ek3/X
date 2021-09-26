@@ -15,7 +15,7 @@
 - [x] SRE
 - [x] DevOps
 - [x] Disruptor
-- [ ] Prometheus
+- [x] Prometheus
 - [ ] Kubernetes
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
