@@ -16,8 +16,8 @@
 - [x] DevOps
 - [x] Disruptor
 - [x] Prometheus
-- [ ] Hook 
-- [ ] Kubernetes
+- [x] Hook 
+- [x] Kubernetes
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
 - [ ] React

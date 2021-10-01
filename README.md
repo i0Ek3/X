@@ -41,7 +41,9 @@
 |  | [Disruptor](https://github.com/i0Ek3/X/tree/main/2021/09/Disruptor) | [https://lmax-exchange.github.io/disruptor/](https://lmax-exchange.github.io/disruptor/) | 1b |
 |  | [Prometheus](https://github.com/i0Ek3/X/tree/main/2021/09/Prometheus) | [https://prometheus.io](https://prometheus.io) | 1b |
 |  | [Hook](https://github.com/i0Ek3/X/tree/main/2021/09/Hook) | N/A | 1b |
-|  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/0/xxx) | [https://xxx.com](https://xxx.com) |  |
+| **[2021.10](https://github.com/i0Ek3/X/tree/main/2021/10)** |  |  |  |
+|  | [Kubernetes](https://github.com/i0Ek3/X/tree/main/2021/10/Kubernetes) | [https://kubernetes.io/](https://kubernetes.io/) | 1b |
+|  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/10/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 
 ## Roadmap
@@ -49,11 +51,6 @@
 Popular, Open Sourced, User-friendly projects or services is my target, also focus on Machine Learning, Deep Learing, Algorithm, Cloud Computation i.e.
 
 The topic of learning list you can find in [List.md](https://github.com/i0Ek3/X/blob/main/List.md), also you can find your interesting topic from [Learn X in Y minutes](https://learnxinyminutes.com)
-
-
-## TODO
-
-
 
 
 ## Guide
