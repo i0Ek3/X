@@ -43,7 +43,8 @@
 |  | [Hook](https://github.com/i0Ek3/X/tree/main/2021/09/Hook) | N/A | 1b |
 | **[2021.10](https://github.com/i0Ek3/X/tree/main/2021/10)** |  |  |  |
 |  | [Kubernetes](https://github.com/i0Ek3/X/tree/main/2021/10/Kubernetes) | [https://kubernetes.io/](https://kubernetes.io/) | 1b |
-|  | [Copilot](https://github.com/i0Ek3/X/tree/main/2021/10/Copilot) | [https://copilot.github.com](https://copilot.github.com) |  |
+|  | [Copilot](https://github.com/i0Ek3/X/tree/main/2021/10/Copilot) | [https://copilot.github.com](https://copilot.github.com) | none |
+|  | [Java Series](https://github.com/i0Ek3/X/tree/main/2021/10/Java) | N/A | 1b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/10/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 
