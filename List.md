@@ -18,6 +18,7 @@
 - [x] Prometheus
 - [x] Hook 
 - [x] Kubernetes
+- [x] WebAssembly
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
 - [ ] React
