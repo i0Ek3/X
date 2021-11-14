@@ -47,6 +47,7 @@
 |  | [Java Series](https://github.com/i0Ek3/X/tree/main/2021/10/Java) | N/A | 1b |
 | **[2021.11](https://github.com/i0Ek3/X/tree/main/2021/11)** |  |  |  |
 |  | [WebAssembly](https://github.com/i0Ek3/X/tree/main/2021/11/WebAssembly) | [https://webassembly.org](https://webassembly.org) | 1b |
+|  | [Vagrant](https://github.com/i0Ek3/X/tree/main/2021/11/Vagrant) | [https://www.vagrantup.com](https://www.vagrantup.com) | 1b |
 |  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/10/xxx) | [https://xxx.com](https://xxx.com) |  |
 
 

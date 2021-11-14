@@ -19,6 +19,7 @@
 - [x] Hook 
 - [x] Kubernetes
 - [x] WebAssembly
+- [x] Vagrant
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
 - [ ] React
