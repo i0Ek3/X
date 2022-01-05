@@ -16,8 +16,27 @@
 
 | Date  | Item | Links | Status | 
 | :-----: | :------: | :-----: | :-----: |
-| **[2021.05](https://github.com/i0Ek3/X/tree/main/2021/05)** |  |  |  |
-|  | [GraphQL](https://github.com/i0Ek3/X/tree/main/2021/05/GraphQL) | [https://www.graphql.com](https://www.graphql.com) | 1b |
+| **[2022.01](https://github.com/i0Ek3/X/tree/main/2022/01)** |  |  |  |
+|  | [PVE](https://github.com/i0Ek3/X/tree/main/2022/01/PVE) | [https://www.proxmox.com/en/](https://www.proxmox.com/en/) | 1b |
+| **[2021.11](https://github.com/i0Ek3/X/tree/main/2021/11)** |  |  |  |
+|  | [WebAssembly](https://github.com/i0Ek3/X/tree/main/2021/11/WebAssembly) | [https://webassembly.org](https://webassembly.org) | 1b |
+|  | [Vagrant](https://github.com/i0Ek3/X/tree/main/2021/11/Vagrant) | [https://www.vagrantup.com](https://www.vagrantup.com) | 1b |
+| **[2021.10](https://github.com/i0Ek3/X/tree/main/2021/10)** |  |  |  |
+|  | [Kubernetes](https://github.com/i0Ek3/X/tree/main/2021/10/Kubernetes) | [https://kubernetes.io/](https://kubernetes.io/) | 1b |
+|  | [Copilot](https://github.com/i0Ek3/X/tree/main/2021/10/Copilot) | [https://copilot.github.com](https://copilot.github.com) | none |
+|  | [Java Series](https://github.com/i0Ek3/X/tree/main/2021/10/Java) | N/A | 1b |
+| **[2021.09](https://github.com/i0Ek3/X/tree/main/2021/09)** |  |  |  |
+|  | [SEO](https://github.com/i0Ek3/X/tree/main/2021/09/SEO) | [https://developers.google.com](https://developers.google.com/search/docs) | 1b |
+|  | [SRE](https://github.com/i0Ek3/X/tree/main/2021/09/SRE) | [https://sre.google/](https://sre.google/) | 1b |
+|  | [DevOps](https://github.com/i0Ek3/X/tree/main/2021/09/DevOps) | N/A | 1b |
+|  | [Disruptor](https://github.com/i0Ek3/X/tree/main/2021/09/Disruptor) | [https://lmax-exchange.github.io/disruptor/](https://lmax-exchange.github.io/disruptor/) | 1b |
+|  | [Prometheus](https://github.com/i0Ek3/X/tree/main/2021/09/Prometheus) | [https://prometheus.io](https://prometheus.io) | 1b |
+|  | [Hook](https://github.com/i0Ek3/X/tree/main/2021/09/Hook) | N/A | 1b |
+| **[2021.08](https://github.com/i0Ek3/X/tree/main/2021/08)** |  |  |  |
+|  | [Terraform](https://github.com/i0Ek3/X/tree/main/2021/08/Terraform) | [https://www.terraform.io](https://www.terraform.io) | 1b |
+| **[2021.07](https://github.com/i0Ek3/X/tree/main/2021/07)** |  |  |  |
+|  | [Protobuf](https://github.com/i0Ek3/X/tree/main/2021/07/Protobuf) | [Protocol Buffers](https://developers.google.com/protocol-buffers/) | 1b |
+|  | [Nginx](https://github.com/i0Ek3/X/tree/main/2021/07/Nginx) | [https://nginx.org](https://nginx.org) | 1b |
 | **[2021.06](https://github.com/i0Ek3/X/tree/main/2021/06)** |  |  |  |
 |  | [PostgreSQL](https://github.com/i0Ek3/X/tree/main/2021/06/PostgreSQL) | [https://www.postgresql.org](https://www.postgresql.org) | 2b |
 |  | [Commit](https://github.com/i0Ek3/X/tree/main/2021/06/Commit) | [1. Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#heading=h.greljkmo14y0) [2. Commit Message Change Log](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html) | 3c |
@@ -29,26 +48,8 @@
 |  | [GitHub Actions](https://github.com/i0Ek3/X/tree/main/2021/06/Actions) | [https://docs.github.com/en/actions](https://docs.github.com/en/actions) | 2b |
 |  | [Unraid](https://github.com/i0Ek3/X/tree/main/2021/06/Unraid) | [https://unraid.net](https://unraid.net) | 0a |
 |  | [Message Queue(Kafka)](https://github.com/i0Ek3/X/tree/main/2021/06/MQ) | [https://kafka.apache.org](https://kafka.apache.org) | 2b |
-| **[2021.07](https://github.com/i0Ek3/X/tree/main/2021/07)** |  |  |  |
-|  | [Protobuf](https://github.com/i0Ek3/X/tree/main/2021/07/Protobuf) | [Protocol Buffers](https://developers.google.com/protocol-buffers/) | 1b |
-|  | [Nginx](https://github.com/i0Ek3/X/tree/main/2021/07/Nginx) | [https://nginx.org](https://nginx.org) | 1b |
-| **[2021.08](https://github.com/i0Ek3/X/tree/main/2021/08)** |  |  |  |
-|  | [Terraform](https://github.com/i0Ek3/X/tree/main/2021/08/Terraform) | [https://www.terraform.io](https://www.terraform.io) | 1b |
-| **[2021.09](https://github.com/i0Ek3/X/tree/main/2021/09)** |  |  |  |
-|  | [SEO](https://github.com/i0Ek3/X/tree/main/2021/09/SEO) | [https://developers.google.com](https://developers.google.com/search/docs) | 1b |
-|  | [SRE](https://github.com/i0Ek3/X/tree/main/2021/09/SRE) | [https://sre.google/](https://sre.google/) | 1b |
-|  | [DevOps](https://github.com/i0Ek3/X/tree/main/2021/09/DevOps) | N/A | 1b |
-|  | [Disruptor](https://github.com/i0Ek3/X/tree/main/2021/09/Disruptor) | [https://lmax-exchange.github.io/disruptor/](https://lmax-exchange.github.io/disruptor/) | 1b |
-|  | [Prometheus](https://github.com/i0Ek3/X/tree/main/2021/09/Prometheus) | [https://prometheus.io](https://prometheus.io) | 1b |
-|  | [Hook](https://github.com/i0Ek3/X/tree/main/2021/09/Hook) | N/A | 1b |
-| **[2021.10](https://github.com/i0Ek3/X/tree/main/2021/10)** |  |  |  |
-|  | [Kubernetes](https://github.com/i0Ek3/X/tree/main/2021/10/Kubernetes) | [https://kubernetes.io/](https://kubernetes.io/) | 1b |
-|  | [Copilot](https://github.com/i0Ek3/X/tree/main/2021/10/Copilot) | [https://copilot.github.com](https://copilot.github.com) | none |
-|  | [Java Series](https://github.com/i0Ek3/X/tree/main/2021/10/Java) | N/A | 1b |
-| **[2021.11](https://github.com/i0Ek3/X/tree/main/2021/11)** |  |  |  |
-|  | [WebAssembly](https://github.com/i0Ek3/X/tree/main/2021/11/WebAssembly) | [https://webassembly.org](https://webassembly.org) | 1b |
-|  | [Vagrant](https://github.com/i0Ek3/X/tree/main/2021/11/Vagrant) | [https://www.vagrantup.com](https://www.vagrantup.com) | 1b |
-|  | [xxx](https://github.com/i0Ek3/X/tree/main/2021/10/xxx) | [https://xxx.com](https://xxx.com) |  |
+| **[2021.05](https://github.com/i0Ek3/X/tree/main/2021/05)** |  |  |  |
+|  | [GraphQL](https://github.com/i0Ek3/X/tree/main/2021/05/GraphQL) | [https://www.graphql.com](https://www.graphql.com) | 1b |
 
 
 ## Roadmap
