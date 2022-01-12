@@ -20,6 +20,7 @@
 - [x] Kubernetes
 - [x] WebAssembly
 - [x] Vagrant
+- [x] ZooKeeper
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
 - [ ] React

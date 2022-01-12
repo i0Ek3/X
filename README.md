@@ -18,6 +18,7 @@
 | :-----: | :------: | :-----: | :-----: |
 | **[2022.01](https://github.com/i0Ek3/X/tree/main/2022/01)** |  |  |  |
 |  | [PVE](https://github.com/i0Ek3/X/tree/main/2022/01/PVE) | [https://www.proxmox.com/en/](https://www.proxmox.com/en/) | 1b |
+|  | [ZooKeeper](https://github.com/i0Ek3/X/tree/main/2022/01/ZooKeeper) | [https://zookeeper.apache.org](https://zookeeper.apache.org) | 1b |
 | **[2021.11](https://github.com/i0Ek3/X/tree/main/2021/11)** |  |  |  |
 |  | [WebAssembly](https://github.com/i0Ek3/X/tree/main/2021/11/WebAssembly) | [https://webassembly.org](https://webassembly.org) | 1b |
 |  | [Vagrant](https://github.com/i0Ek3/X/tree/main/2021/11/Vagrant) | [https://www.vagrantup.com](https://www.vagrantup.com) | 1b |
@@ -61,7 +62,12 @@ The topic of learning list you can find in [List.md](https://github.com/i0Ek3/X/
 
 ## Guide
 
-Please see [Guide.md](https://github.com/i0Ek3/X/blob/main/Guide.md).
+Please check [Guide.md](https://github.com/i0Ek3/X/blob/main/Guide.md) to know more.
+
+
+## Abbreviation
+
+Please check [Abbreviation.md](https://github.com/i0Ek3/X/blob/main/Abbreviation.md) to know more.
 
 
 ## Contributing
