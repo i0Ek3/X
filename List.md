@@ -21,6 +21,7 @@
 - [x] WebAssembly
 - [x] Vagrant
 - [x] ZooKeeper
+- [ ] Kong
 - [ ] CSS/HTML/JavaScript
 - [ ] Flutter
 - [ ] React
