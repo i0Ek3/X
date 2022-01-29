@@ -19,6 +19,7 @@
 | **[2022.01](https://github.com/i0Ek3/X/tree/main/2022/01)** |  |  |  |
 |  | [PVE](https://github.com/i0Ek3/X/tree/main/2022/01/PVE) | [https://www.proxmox.com/en/](https://www.proxmox.com/en/) | 1b |
 |  | [ZooKeeper](https://github.com/i0Ek3/X/tree/main/2022/01/ZooKeeper) | [https://zookeeper.apache.org](https://zookeeper.apache.org) | 1b |
+|  | [OpenStack](https://github.com/i0Ek3/X/tree/main/2022/01/OpenStack) | [https://www.openstack.org](https://www.openstack.org) | 1b |
 | **[2021.11](https://github.com/i0Ek3/X/tree/main/2021/11)** |  |  |  |
 |  | [WebAssembly](https://github.com/i0Ek3/X/tree/main/2021/11/WebAssembly) | [https://webassembly.org](https://webassembly.org) | 1b |
 |  | [Vagrant](https://github.com/i0Ek3/X/tree/main/2021/11/Vagrant) | [https://www.vagrantup.com](https://www.vagrantup.com) | 1b |
