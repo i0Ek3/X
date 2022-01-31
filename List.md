@@ -34,3 +34,5 @@
 - [ ] Virtualization
 - [ ] Quantum Computation
 - [ ] Edge Computation
+- [ ] AWS/Azure
+- [ ] GGP
