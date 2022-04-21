@@ -7,7 +7,7 @@
 - [x] Grafana
 - [x] GitHub Wrokflow
 - [x] Message Queue
-    - [x] Kafka
+  - [x] Kafka
 - [x] Protobuf
 - [x] Nginx
 - [x] Terraform

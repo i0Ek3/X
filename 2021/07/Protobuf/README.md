@@ -14,11 +14,9 @@ Special structured data generation.
 
 ## C: How-To and why?
 
-Install for macOS: `brew install protobuf`.
+Install for macOS: `brew install protobuf` or download release binary package.
 
-Or download release binary package.
-
-You write a .proto description of the data structure you wish to store. From that, the protocol buffer compiler creates a class that implements automatic encoding and parsing of the protocol buffer data with an efficient binary format.
+First, write a .proto description of the data structure you wish to store. From that, the protocol buffer compiler creates a class that implements automatic encoding and parsing of the protocol buffer data with an efficient binary format.
 
 Use command `protoc -I=$SRC_DIR --go_out=$DST_DIR $SRC_DIR/example.proto` to build proto.
 
@@ -47,3 +45,4 @@ That's the way.
 - [https://developers.google.com/protocol-buffers/docs/gotutorial](https://developers.google.com/protocol-buffers/docs/gotutorial)
 - [https://developers.google.com/protocol-buffers/docs/proto3](https://developers.google.com/protocol-buffers/docs/proto3)
 - [https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/](https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/)
+- https://geektutu.com/post/quick-go-protobuf.html
