@@ -1,5 +1,6 @@
 # eBPF
 
+> extended Berkeley Packet Filter.
 
 ## A: What it is?
 

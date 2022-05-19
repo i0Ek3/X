@@ -6,6 +6,7 @@ The self invented abbreviation applied in X.
 
 - YSK: You should know
 - YOR: You own risk
+- YAG: You All Guys!
 - NTT: Nice to try
 - OW:  Official words
 
