@@ -1,17 +1,40 @@
+# the name of workflow
 name: GitHub Actions Demo
+
+# name the condition to trigger workflow
 on: [push]
+
+# indicates one or more tasks to be performed
 jobs:
+
+  # job id
   Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
+
+    # name the required virtual env
+    runs-on: ubuntu-latest # macOS-latest, windows-latest
+
+    # indicates the running steps of each job, which can contain one or more steps
+    # steps
+    #   - name
+    #   - run
+    #   - env
     steps:
+      # specifies the command to execute
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+
+      # step name1
       - name: Check out repository code
+        # references the third action
         uses: actions/checkout@v2
+
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+
+      # step name2
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+
       - run: echo "🍏 This job's status is ${{ job.status }}."
