@@ -22,6 +22,7 @@
 - [x] Vagrant
 - [x] ZooKeeper
 - [x] Flutter
+- [x] RESTful
 - [ ] Kong
 - [ ] CSS/HTML/JavaScript
 - [ ] React
@@ -30,7 +31,6 @@
 - [ ] Docker
 - [ ] Microservice
 - [ ] ElasticSearch
-- [ ] RESTful
 - [ ] Virtualization
 - [ ] Quantum Computation
 - [ ] Edge Computation
