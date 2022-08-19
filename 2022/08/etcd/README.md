@@ -1,4 +1,4 @@
-# etcd
+# Etcd
 
 
 ## A: What it is?

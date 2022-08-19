@@ -23,6 +23,7 @@
 - [x] ZooKeeper
 - [x] Flutter
 - [x] RESTful
+- [ ] Istio
 - [ ] Kong
 - [ ] CSS/HTML/JavaScript
 - [ ] React
