@@ -1,0 +1,55 @@
+ganache v7.4.3 (@ganache/cli: 0.5.3, @ganache/core: 0.5.3)
+Starting RPC server
+
+Available Accounts
+==================
+(0) 0x836813Ceeb931F8579dF0d5E3F7307930B857F9a (1000 ETH)
+(1) 0x6D1DC0B8Bd44f1FCa9c4eEb02965A121dc2cbd37 (1000 ETH)
+(2) 0x928C9C45CAD5438b6E101eFA5fa560b99A528817 (1000 ETH)
+(3) 0x604Fda77113F5a1ccF125ebF2Ce85a6bb8474270 (1000 ETH)
+(4) 0x9963aC4EB77AEC70B3349c9767ced96B34A3CEef (1000 ETH)
+(5) 0x7268eafE8B9ea8Ab03A347f3EE1c5312ed8aD7c4 (1000 ETH)
+(6) 0x3D22378F3E72BA1ec9AfDCE6Afaf9E04eDb3865b (1000 ETH)
+(7) 0x113278176b01ddFd9b5F249943391e18d9987092 (1000 ETH)
+(8) 0xB37d77e9a0009BC398886eB5637e22A7e12ABF5F (1000 ETH)
+(9) 0xb728ae827961630faAc222618A2f107c3Ff30dcd (1000 ETH)
+
+Private Keys
+==================
+(0) 0x24b5670949fd7efe7f806662ad91ff8d1a37cc408bc41d5323a187ba55de1b0e
+(1) 0xe2ed7ac77274cc0f414911c2cc030bb987930851fd170395bbc8eba06261324f
+(2) 0x60491739ee0a58debbb5123a4f56389bcd201d38cbe0b485d2d66b09fe916e81
+(3) 0x6f68d4d6bb29050fd930c448ada4bcf2283703e9f2c3f8f83c4238f6f37ac684
+(4) 0xf394f8a100d206b3d2f277d07f8223e53b04e046ee3da71db3ba867369199cb7
+(5) 0x8d7dc94bc125c2832df3e4aade934942a83163a5263bd0b291c78c0188b4c831
+(6) 0xadfc10531952465067627d5b1922620096a2ad383abdb77eba7e10156490db7e
+(7) 0xc91bf581eecd390d95c8af89b7f8283bdb609519bb6ba2ec1ffab0c2dd53bc2d
+(8) 0xc7ca963ead120f1f6ac6313bcb3fb33eeae5d58b293a359cd438955dae388194
+(9) 0xfa3bcd82cbb35c99e7ce1c80be2df4f9aa0f9434b70ca51dcb322cec20820ce0
+
+HD Wallet
+==================
+Mnemonic:      today post arch juice amazing wreck tube track warfare genius kid notice
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Default Gas Price
+==================
+2000000000
+
+BlockGas Limit
+==================
+30000000
+
+Call Gas Limit
+==================
+50000000
+
+Chain Id
+==================
+1337
+
+RPC Listening on 127.0.0.1:8545
+
+Received shutdown signal: SIGINT
+Shutting down…
+Server has been shut down
