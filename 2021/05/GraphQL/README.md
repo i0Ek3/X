@@ -1,14 +1,14 @@
 # GraphQL
 
-## A
+## A: What it is?
 
 GraphQL is a query language for API.
 
-## B
+## B: What problem should be solved?
 
 Quickly query the data what you only want.
 
-## C
+## C: How-To and why?
 
 Define types and fields on type to create service, and then offer the parse function for each fields on every type.
 
@@ -18,7 +18,7 @@ Define types and fields on type to create service, and then offer the parse func
 - Explore your API
 - Consume your data
 
-## D
+## D: Examples validation
 
 ``````javascript
 type Query {
@@ -46,15 +46,15 @@ function Username(user) {
 }
 ``````
 
-## E
+## E: Application?
 
-Todo
+API query.
 
-## F
+## F: Epilog
 
 ### Cons
 
-- 
+- need some time to get used to this
 
 ### Pros
 
@@ -63,7 +63,7 @@ Todo
 
 I would say, GraphQL is better than other API query service, I will try it on my own project.
 
-## G
+## G: Reference
 
 - [https://www.howtographql.com](https://www.howtographql.com)
 - [https://graphql.cn/learn/](https://graphql.cn/learn/)
